@@ -34,7 +34,7 @@ License -> https://github.com/TR-TECH-GUIDE/URL-Shortner-Bot/blob/main/LICENSE
 <br/>
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Unlimited-Filter-Bot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/URL-Shortner-Bot)
 
 
 </details>
