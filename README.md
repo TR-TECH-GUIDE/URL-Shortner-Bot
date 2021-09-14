@@ -73,4 +73,7 @@ python3 main.py
 
 ---
 
-
+## Credits
+  
+- [Fayas](https://github.com/FayasNoushad)
+- [Me](https://github.com/TR-TECH-GUIDE)
