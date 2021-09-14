@@ -13,9 +13,9 @@ License -> https://github.com/TR-TECH-GUIDE/URL-Shortner-Bot/blob/main/LICENSE
 
 
 </p>
-[[Our Website](https://trtechguide.wordpress.com)  
+[Our Website](https://trtechguide.wordpress.com)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[[TRTECHGUIDE](https://t.me/trtechguide)]
+[TRTECHGUIDE](https://t.me/trtechguide)
 
 
 <p align="center">
