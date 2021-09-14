@@ -12,12 +12,6 @@ License -> https://github.com/TR-TECH-GUIDE/URL-Shortner-Bot/blob/main/LICENSE
 ```
 
 
-</p>
-[Our Website](https://trtechguide.wordpress.com)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[TRTECHGUIDE](https://t.me/trtechguide)
-
-
 <p align="center">
   <a href="https://github.com/TR-TECH-GUIDE/Unlimited-Filter-Bot">
     <img src="https://trtechguide.files.wordpress.com/2021/07/untitled-design-2.png"></a>">
